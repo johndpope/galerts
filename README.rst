@@ -1,3 +1,6 @@
+### DEPRECATED - use https://github.com/9b/google-alerts .     
+
+
 galerts
 =======
 
